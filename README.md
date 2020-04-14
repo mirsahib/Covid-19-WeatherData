@@ -1,4 +1,4 @@
-# Global Weather Data
+# Covid-19 Global Weather Data
 
 This is the data repository for Global Weather data which could be used to find the correlation of temperature and spread of covid-19 virus
 <br>
