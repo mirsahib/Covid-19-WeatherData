@@ -23,3 +23,6 @@ This is the data repository for Global Weather data which could be used to find 
 * Email: mirsahib24@gmail.com
 * Social: https://www.facebook.com/mirsahib24
 <br><br>
+
+### Notes
+* Update Frequency: I will try to maintain this dataset at least once a month.
