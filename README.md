@@ -7,8 +7,11 @@ This is the data repository for Global Weather data which could be used to find 
 * Reliable Prognosis (ru): https://rp5.ru/Weather_in_the_world <br>
 
 <br>Folder Information<br>
-* China -> Weather data is extracted from 31 dec 2019(first report of covid-19 virus) to 7 apr 2020
+* China -> Weather data is extracted from 31 dec 2019(first report of covid-19 virus) to 7 apr 2020<br>
 * Bangladesh -> Weather data is extracted from 8 Mar 2020(first report of covid-19 virus) to 13 apr 2020
+
+<br>File Name rule</br>
+state/provinve_city.csv
 
 <b>Important Column name</br>
 * 1st col -> Date / Local time 
